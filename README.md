@@ -1,2 +1,2 @@
-# cloud-security
+# Cloud Security
 Cheat sheets for cloud security
